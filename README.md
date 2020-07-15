@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align='center'>
+  <img align='center' src="https://cdn-images-1.medium.com/max/1600/1*CuPMkOh5iNPfEblINiO-gw.gif">
+<p/>
 
-<!--
-**chapzin/chapzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+### 👋 Hello, I'm Ricardo Gomes!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Find me around the web
+[**twitter**](https://twitter.com/nerdlinux) <br>
+[**linkedIn**](https://www.linkedin.com/in/chapzin/) <br>
+
+</samp>
+<p align='center'>
+  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=chapzin.visitor-badge">
+<p/>
